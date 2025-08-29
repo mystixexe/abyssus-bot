@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+wr_data/*.json
+.env
